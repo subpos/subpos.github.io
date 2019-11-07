@@ -1,5 +1,7 @@
 # SubPos Website
-Cache of the now defunct subpos.org and wiki
+Static cache of the now defunct subpos.org and wiki. Please note that some links between the main site and the wiki site are broken, but if you go to them directly using the links below they work fine.
+
+Also note. The search bars still link to the subpos.org domain, which is no longer controlled by SubPos. Any results you receive by using the search functions on either the wiki site or the main site are not endorsed by SubPos.
 
 Browse the main site with the following link - https://subpos.github.io/
 
